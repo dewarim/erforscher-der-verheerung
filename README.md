@@ -1,2 +1,4 @@
-# explorers-of-the-cataclysm
-A simple SF RPG 
+# Explorers of the Cataclysm
+
+A simple SF RPG based on an unpublished story :)
+
