@@ -1,0 +1,125 @@
+= Erforscher der Verheerung
+
+Ein einfaches Science Fiction Rollenspiel, basierend auf einer unveröffentlichten Geschichte :)
+
+= Szenario
+
+Einige Jahrhunderte in der Zukunft: Die Menschheit hat sich Dank der Entdeckung des Überlichtantriebs in der Galaxie ausgebreitet und erste Hinweise auf außerirdische Zivilisationen gefunden (TODO: definieren, evtl. schon 2nd contact).
+
+Vor 20 Jahren wurde die Verheerung (The Cataclysm) entdeckt - ein neues Wurmloch im unbewohnten Sternensystem DEVA-S209-K, das unentwegt Wracks von Raumschiffen aller Art ausspuckt und in chaotische Umlaufbahnen stößt. Die Schiffe sind nicht irdischen Ursprungs, sondern scheinen von einer Unzahl humanoider Rassen gebaut worden zu sein. Die Spieler sind Erforscher / Abenteurer in diesem System und versuchen, zusammen mit zehntausenden anderen ihr Glück, Ruhm, Reichtum und die Geheimnisse der Verheerung erreichen. 
+
+= Regeln
+
+== Würfelsystem
+
+W6-basiert.
+
+Beispiel: Standardangriff: 3w6, Treffer gegen menschlichen Gegner ohne Rüstung bei 8.
+
+Proben auf Attribute und Skills ebenfalls über W6.
+
+== Charaktererstellung
+
+Im Moment ist die Start-Rasse Mensch. Grundwert für alle Attribute ist 10. Bonuspunkte zur Verteilung beim Erstellen eines Charakters: 10. Ein Attribut kann um bis zu 4 Punkte gesenkt werden, um ein anderes zu erhöhen.
+
+=== Attribute
+
+* Charisma
+* Geschicklichkeit
+* Intelligenz
+* Konstitution
+* Schnelligkeit
+* Stärke
+* Wahrnehmung
+* Willenskraft
+
+=== Berufe (Klassen)
+
+Die Charaktere verfügen über die Standard-Grundausbildung für Raumfahrer (entsprechend einem Grundstudium). Sie können also mit Unterstützung der nicht-autonomen Künstlichen Intelligenz an Bord eines normalen Raumschiffes die alltäglichen Arbeiten zu Betrieb und Wartung übernehmen. Das ist z.B. Luftfilter wechseln, ein kleines Leck mit einem Notflicken abdichten oder eine Funkverbindung herstellen. Für ungewöhnliche Situationen sind aber stets Experten erforderlich. Die KI kann unterstützen, aber das Ergebnis ist (spieltechnisch betrachtet) dann nur Mittelmaß.
+
+Das folgende ist eine vereinfachte Liste - "Händlerin" ist leichter verständlich als "Kauffrau für interplanetaren Resourcen-Im- und Export"
+
+==== Pilot
+
+Wähle 2 Spezialisierungen:
+
+* Transporter (Raumschiff <=> Station)
+* 1-2 Personen-Kampfflieger
+* Große Schiffe (Kreuzer, Fregatten)
+* Shuttle (Landung auf Planeten)
+* Bodenfahrzeuge (Autos, LKW, Motorräder)
+* Unterwasserfahrzeuge
+* Flugzeuge (in Atmosphäre)
+* Spezial Fahr- und Flugzeuge (Panzer, Hubschrauber, Raketenanzüge, Antigrav-Platformen)
+
+Unterspezialisierungen auf bestimmte Modelle können einen zusätzlichen Bonus bringen. 
+
+==== Wissenschaftler
+
+Verfügt über theoretisches Wissen zum jeweiligen Fachgebiet und kann Expertensysteme dazu bedienen.
+
+Fachrichtungen (bis zu 2 auswählen für einen neuen Charakter)
+
+- Xenoanthropologie (Humanoidologie :) ) - es wurden Überreste vieler humanoider Rassen gefunden. Ein komplett neues Forschungsgebiet!
+- Biologie
+-- Sauerstoffversorgung (komplexe Hydroponik, vgl. die Sauerstofferzeugung in The Expanse)
+-- Xeno-Flora (stets inkl. irdischer Flora)
+-- Xeno-Fauna
+- Chemie
+-- Betriebsstoffe (Vom weltraumtauglichen Schmieröl bis zum 
+- FTL-Theorie und Hyperraumantriebe
+- Stellare und lokale Astronomie
+- Linguistik
+- Nanotechnologie
+- Robotik
+
+==== Mediziner - Erste Hilfe, Bedienung der Medistation 
+
+==== Händlerin 
+
+==== Kämpfer
+
+Wähle 2 Spezialisierungen, dazu kommt Skill: Schußwaffen (professionell): 3W6 auf Treffer 
+
+- Sicherheit auf Station (Personenschutz, Kenntnis von Sicherheitsprotokollen)
+- Abwehr von Kaperversuchen
+- Bedienung von Gefechtscomputern (Schiff-zu-Schiff Kampf)
+- Roboterkampf - "eigentlich" können Kampfroboter nicht durchdrehen...
+- Kampf mit Powerarmor
+- 0-G Nahkampf 
+- Große Waffen (Raketenwerfer, Flak, Maschinengewehr und schwere Bolter)
+
+==== Technikerin
+
+Bedienung von komplexen Geräten (Drohnen, Schutzschirme, Laderoboter...)
+
+==== Mechaniker 
+
+Reparatur und Wartung von Geräten
+
+==== Programmierer
+
+Hacken & Softwareentwicklung mit/ohne KI-Unterstützung; Spezialisierung: Firmware, Cryptographie, KI
+
+==== Verwerter (Scavenger) 
+
+Durch die Verheerung entstandener Beruf: Abwracken und Plündern von Wracks, wertige Komponenten identifiziern und ausbauen.
+
+=== Skills
+
+(Ohne Anspruch auf Vollständigkeit - weitere Vorschläge willkommen)
+
+Neue Charaktere wählen n Skills aus.
+
+* 0-G Training (Kann komplexe Aktionen in Schwerelosigkeit durchführen ohne die Übersicht zu verlieren, erlaubt einem Mediziner z.B. die Wundversorgung ohne daß die Bandagen in einem Moment der Unachtsamkeit davonfliegen, während er den Patienten stabilisiert)
+* Feilschen
+* Überreden
+* Etikette: Militär
+* Etikette: Konzern / Wirtschaft
+* Etikette: Wissenschaft
+* Etikette: Scavenger
+* Lore: Verheerung
+* Lore: Galaktische Föderation
+* Lore: Weltraumpiraten
+* Nahkampf (für Nicht-Kampfberufe): 2W6-1 auf Treffer
+* Schußwaffen (für Nicht-Kampfberufe): 2W6-1 auf Treffer
