@@ -1,6 +1,6 @@
 Das folgende ist eine vereinfachte Liste - "Händlerin" ist leichter verständlich als "Kauffrau für interplanetaren Resourcen-Im- und Export"
 
-==== Pilot
+= Pilot
 
 Wähle 2 Spezialisierungen:
 
@@ -15,7 +15,8 @@ Wähle 2 Spezialisierungen:
 
 Unterspezialisierungen auf bestimmte Modelle können einen zusätzlichen Bonus bringen. 
 
-==== Wissenschaftler
+
+= Wissenschaftler
 
 Verfügt über theoretisches Wissen zum jeweiligen Fachgebiet und kann Expertensysteme dazu bedienen.
 
@@ -24,17 +25,32 @@ Fachrichtungen (bis zu 2 auswählen für einen neuen Charakter)
 - Xenoanthropologie (Humanoidologie :) ) - es wurden Überreste vieler humanoider Rassen gefunden. Ein komplett neues Forschungsgebiet!
 - Biologie
 -- Sauerstoffversorgung (komplexe Hydroponik, vgl. die Sauerstofferzeugung in The Expanse)
--- Xeno-Flora (stets inkl. irdischer Flora)
+-- Xeno-Flora (stets inkl. irdischer Flora zum Vergleich)
 -- Xeno-Fauna
 - Chemie
--- Betriebsstoffe (Vom weltraumtauglichen Schmieröl bis zum 
-- FTL-Theorie und Hyperraumantriebe
+-- Betriebsstoffe (vom weltraumtauglichen Schmieröl bis zum Synth-Kaffee)
+-- Analyse von Stoffen
+- Physik
+-- Raketenwissenschaft (Antriebssysteme, Ballistik)
+-- Lasertechnik
+-- link:Raumflugmechanik[https://de.wikipedia.org/wiki/Raumflugmechanik]
+- FTL-Theorie und Hyperraumantriebe (FTL = Faster Than Light = Überlichtreisen)
 - Stellare und lokale Astronomie
 - Linguistik
 - Nanotechnologie
 - Robotik
 
-==== Mediziner - Erste Hilfe, Bedienung der Medistation 
+= Mediziner 
+
+Wähle 2
+
+- Allgemeinmedizin ("normale" Krankheiten und Probleme)
+- Erste Hilfe: Weltraum-Unfälle (Dekompression, Verstrahlung, Sauerstoffmangel - Überleben sichern, bis Patient bei der Medistation ankommt)
+- Krankheiten: außerirdische (Mondstaubasbestose)
+- Bedienung der Medistation (Chirurgie, Regenerationstank)
+- Parasiten (Alien im Bauch)
+- Geisteskrankheiten (Agoraphobie? Wieso, im All ist doch gar nichts, nur unendliche Weiten... oh.)
+- Schutzprotokolle für Raumfahrer (Raumanzug gegen Reaktorstrahlung? Nebel aus Nanomaschinen vs FFP4-Masken? Reicht Alkohol, um Ewok-Läuse abzutöten?)
 
 ==== Händlerin 
 
