@@ -6,7 +6,8 @@ Ein einfaches Science Fiction Rollenspiel, basierend auf einer unveröffentlicht
 
 Einige Jahrhunderte in der Zukunft: Die Menschheit hat sich Dank der Entdeckung des Überlichtantriebs in der Galaxie ausgebreitet und erste Hinweise auf außerirdische Zivilisationen gefunden (TODO: definieren, evtl. schon 2nd contact).
 
-Vor 20 Jahren wurde die Verheerung (The Cataclysm) entdeckt - ein neues Wurmloch im unbewohnten Sternensystem DEVA-S209-K, das unentwegt Wracks von Raumschiffen aller Art ausspuckt und in chaotische Umlaufbahnen stößt. Die Schiffe sind nicht irdischen Ursprungs, sondern scheinen von einer Unzahl humanoider Rassen gebaut worden zu sein. Die Spieler sind Erforscher / Abenteurer in diesem System und versuchen, zusammen mit zehntausenden anderen ihr Glück, Ruhm, Reichtum und die Geheimnisse der Verheerung erreichen. 
+Vor 20 Jahren wurde die Verheerung (The Cataclysm) entdeckt - ein neues Wurmloch im unbewohnten Sternensystem DEVA-S209-K, das unentwegt Wracks von Raumschiffen aller Art ausspuckt und in chaotische Umlaufbahnen stößt. Die Schiffe sind nicht irdischen Ursprungs, sondern scheinen von einer Unzahl humanoider Rassen gebaut worden zu sein. Die Spieler sind Erforscher / Abenteurer in diesem System und versuchen, zusammen mit zehntausenden anderen ihr Glück zu versuchen. 
+Ruhm, Reichtum und die Geheimnisse der Verheerung erwarten sie ... 
 
 = Regeln
 
@@ -52,12 +53,31 @@ Du kannst auch Skills von anderen Berufen wählen, aber diese haben dann "Einste
 * 0-G Training (Kann komplexe Aktionen in Schwerelosigkeit durchführen ohne die Übersicht zu verlieren, erlaubt einem Mediziner z.B. die Wundversorgung ohne daß die Bandagen in einem Moment der Unachtsamkeit davonfliegen, während er den Patienten stabilisiert)
 * Feilschen
 * Überreden
-* Etikette: Militär
-* Etikette: Konzern / Wirtschaft
-* Etikette: Wissenschaft
-* Etikette: Scavenger
-* Lore: Verheerung
-* Lore: Galaktische Föderation
-* Lore: Weltraumpiraten
-* Nahkampf (für Nicht-Kampfberufe): 2W6-1 auf Treffer
-* Schußwaffen (für Nicht-Kampfberufe): 2W6-1 auf Treffer
+* Etikette: das Wissen um die Grundregeln und das Verhalten in einer bestimmten gesellschaftlichen Gruppe
+** Konzerne / Wirtschaft
+** Wissenschaft
+** Scavenger - z.B. daß man kein Wrack ausbeutet, daß schon ein anderer in diesem Moment in Arbeit hat.
+** Unterwelt
+* Wissen (Lore) - im Unterschied zu Etikette geht es nicht um das Verhalten, sondern mehr um Strukturen, Organisationen, Geschichte, Namen und Orte:
+** Verheerung
+** Galaktische Föderation
+** Weltraumpiraten, Schmuggler (Überlappt mit Etikette: Unterwelt)
+** Religionen
+** Waffensysteme und Schutzschilde
+** Außerirdische Lebensformen (Flora und Fauna von bisher gefundenen Planeten in der Galaxis)
+** Roboter
+** Große Maschinen (Recycler, die ein ganzes Schiff automatisch auseinandernehmen; Asteroiden-Bergbaumaschinen)
+** Technik
+** Chemie
+** Physik
+* Kampf (für Nicht-Kampfberufe)
+** Nahkampf
+** Schußwaffen
+** Historische Waffen (Schwerter, Bogen... - wähle eine Unterspezialisierung)
+* Suchen (z.B. versteckte Waffensysteme oder einen Safe)
+* Feilschen
+* Schwimmen
+* Singen
+* Brauen (Bier aus Algen, Gen-Gerste und Venushefe? Lecker!)
+* Brennen (hochprozentigen Alkohol)
+* Klettern
