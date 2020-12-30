@@ -39,10 +39,11 @@ Fachrichtungen (bis zu 2 auswählen für einen neuen Charakter)
 - Linguistik
 - Nanotechnologie
 - Robotik
+- Xeno-Informatik - die Verheerung spuckt fremdartige Wracks aus, deren IT-Systeme von massiven Energieströmen zerstört werden. Aber manchmal finden Forscher auch funktionsfähige Prozessoren mit noch identifizierbarer Software. Von der Auswertung versprechen sich manche Wissenschaftler neue Erkenntnisse über Antriebstechnik, Scanner, Waffensysteme, Kraftfelder und Robotersteuerungen. Vielleicht sogar eines Tage echte künstliche Intelligenzen?
 
 = Mediziner 
 
-Wähle 2
+Wähle 3
 
 - Allgemeinmedizin ("normale" Krankheiten und Probleme)
 - Erste Hilfe: Weltraum-Unfälle (Dekompression, Verstrahlung, Sauerstoffmangel - Überleben sichern, bis Patient bei der Medistation ankommt)
@@ -52,11 +53,24 @@ Wähle 2
 - Geisteskrankheiten (Agoraphobie? Wieso, im All ist doch gar nichts, nur unendliche Weiten... oh.)
 - Schutzprotokolle für Raumfahrer (Raumanzug gegen Reaktorstrahlung? Nebel aus Nanomaschinen vs FFP4-Masken? Reicht Alkohol, um Ewok-Läuse abzutöten?)
 
-==== Händlerin 
+= Händlerin 
+
+Wähle 3
+
+- Schätzen (mit deinem kommerziellen Hintergrund kannst du den ungefähren Wert einer Sache bestimmen)
+- Feilschen (wie auf dem Basar)
+- Verhandeln (damit kannst du intergalaktische Handy-Verträge aushandeln)
+- Kalkulation (Budgetplanung, Reichweite von Treibstoff + Sauerstoffvorrat + Lebensmitteln + Verbrauchsmaterial bei Expeditionen etc) 
+- Händler-Wissen: exotisch; wähle 2 Unterskills
+-- Nahrungsmittel
+-- Metalle und seltene Erden
+-- Gifte
+-- Kunst
+-- Stoffe und Kleidung (Alien-Seidenschlüpfer erzielen Höchstpreise, auch wenn kaum jemand die vier nötigen Beine hat, um sie zu tragen)
 
 ==== Kämpfer
 
-Wähle 2 Spezialisierungen, dazu kommt Skill: Schußwaffen (professionell): 3W6 auf Treffer 
+Wähle 2 Spezialisierungen, dazu kommt der Skill: Schußwaffen (professionell): 3W6 auf Treffer 
 
 - Sicherheit auf Station (Personenschutz, Kenntnis von Sicherheitsprotokollen)
 - Abwehr von Kaperversuchen
