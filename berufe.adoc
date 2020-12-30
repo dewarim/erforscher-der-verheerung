@@ -1,0 +1,67 @@
+Das folgende ist eine vereinfachte Liste - "Händlerin" ist leichter verständlich als "Kauffrau für interplanetaren Resourcen-Im- und Export"
+
+==== Pilot
+
+Wähle 2 Spezialisierungen:
+
+* Transporter (Raumschiff <=> Station)
+* 1-2 Personen-Kampfflieger
+* Große Schiffe (Kreuzer, Fregatten)
+* Shuttle (Landung auf Planeten)
+* Bodenfahrzeuge (Autos, LKW, Motorräder)
+* Unterwasserfahrzeuge
+* Flugzeuge (in Atmosphäre)
+* Spezial Fahr- und Flugzeuge (Panzer, Hubschrauber, Raketenanzüge, Antigrav-Platformen)
+
+Unterspezialisierungen auf bestimmte Modelle können einen zusätzlichen Bonus bringen. 
+
+==== Wissenschaftler
+
+Verfügt über theoretisches Wissen zum jeweiligen Fachgebiet und kann Expertensysteme dazu bedienen.
+
+Fachrichtungen (bis zu 2 auswählen für einen neuen Charakter)
+
+- Xenoanthropologie (Humanoidologie :) ) - es wurden Überreste vieler humanoider Rassen gefunden. Ein komplett neues Forschungsgebiet!
+- Biologie
+-- Sauerstoffversorgung (komplexe Hydroponik, vgl. die Sauerstofferzeugung in The Expanse)
+-- Xeno-Flora (stets inkl. irdischer Flora)
+-- Xeno-Fauna
+- Chemie
+-- Betriebsstoffe (Vom weltraumtauglichen Schmieröl bis zum 
+- FTL-Theorie und Hyperraumantriebe
+- Stellare und lokale Astronomie
+- Linguistik
+- Nanotechnologie
+- Robotik
+
+==== Mediziner - Erste Hilfe, Bedienung der Medistation 
+
+==== Händlerin 
+
+==== Kämpfer
+
+Wähle 2 Spezialisierungen, dazu kommt Skill: Schußwaffen (professionell): 3W6 auf Treffer 
+
+- Sicherheit auf Station (Personenschutz, Kenntnis von Sicherheitsprotokollen)
+- Abwehr von Kaperversuchen
+- Bedienung von Gefechtscomputern (Schiff-zu-Schiff Kampf)
+- Roboterkampf - "eigentlich" können Kampfroboter nicht durchdrehen...
+- Kampf mit Powerarmor
+- 0-G Nahkampf 
+- Große Waffen (Raketenwerfer, Flak, Maschinengewehr und schwere Bolter)
+
+==== Technikerin
+
+Bedienung von komplexen Geräten (Drohnen, Schutzschirme, Laderoboter...)
+
+==== Mechaniker 
+
+Reparatur und Wartung von Geräten
+
+==== Programmierer
+
+Hacken & Softwareentwicklung mit/ohne KI-Unterstützung; Spezialisierung: Firmware, Cryptographie, KI
+
+==== Verwerter (Scavenger) 
+
+Durch die Verheerung entstandener Beruf: Abwracken und Plündern von Wracks, wertige Komponenten identifiziern und ausbauen.
