@@ -1,12 +1,16 @@
 = Erforscher der Verheerung
 
-Ein einfaches Science Fiction Rollenspiel, basierend auf einer unveröffentlichten Geschichte :)
+Ein einfaches Science Fiction Rollenspiel.
 
 = Szenario
 
-Einige Jahrhunderte in der Zukunft: Die Menschheit hat sich Dank der Entdeckung des Überlichtantriebs in der Galaxie ausgebreitet und erste Hinweise auf außerirdische Zivilisationen gefunden (TODO: definieren, evtl. schon 2nd contact).
+Einige Jahrhunderte in der Zukunft: Die Menschheit hat sich Dank der Entdeckung des Überlichtantriebs in der Galaxie ausgebreitet und erste Hinweise auf außerirdische Zivilisationen gefunden (TODO: 1st/2nd contact?).
 
-Vor 20 Jahren wurde die Verheerung (The Cataclysm) entdeckt - ein neues Wurmloch im unbewohnten Sternensystem DEVA-S209-K, das unentwegt Wracks von Raumschiffen aller Art ausspuckt und in chaotische Umlaufbahnen stößt. Die Schiffe sind nicht irdischen Ursprungs, sondern scheinen von einer Unzahl humanoider Rassen gebaut worden zu sein. Die Spieler sind Erforscher / Abenteurer in diesem System und versuchen, zusammen mit zehntausenden anderen ihr Glück zu versuchen. 
+Vor 20 Jahren wurde die Verheerung (The Cataclysm) entdeckt - ein neues Wurmloch im unbewohnten Sternensystem DEVA-S209-K, das unentwegt Wracks von Raumschiffen aller Art ausspuckt und in chaotische Umlaufbahnen stößt. Die Schiffe sind nicht irdischen Ursprungs, sondern scheinen von einer Unzahl humanoider Rassen gebaut worden zu sein. Bisher wurden keine Überlebenden gefunden, und die Zerstörung hat fast immer extreme Ausmaße.
+
+Am Rand des Systems wurden in großer Eile eine Zahl an Raumstationen gebaut, und große Recycler-Stationen nahmen ihre Arbeit auf, um die Schiffe zu verwerten, die aus dem gefährlichen inneren Ring herausdriften.  
+
+Die Spieler sind Erforscher / Abenteurer in diesem System und versuchen, zusammen mit zehntausenden anderen ihr Glück zu versuchen. 
 Ruhm, Reichtum und die Geheimnisse der Verheerung erwarten sie ... 
 
 = Regeln
