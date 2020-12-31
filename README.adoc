@@ -122,3 +122,27 @@ Beispiele:
 * andere Organe (Lungensystem: ersetzt einen Teil der Lunge; Ohren: Geräuschsensoren ... "Der CPU-Lüfter läuft schon wieder unrund")
 * Kampfaugmentierung: (normal: +1) Bonus auf Treffer, Schaden, Reaktion
 * Schutzimplantate (Metallschädel, Knochenverstärker): reduzieren oder verhindern Schaden. (Normale Qualität: -2 Schadenspunkte bei mechanischer Einwirkung wie Stich-, Hieb- und Schnittverletzungen)
+
+=== Vor- und Nachteile / Hintergrundgeschichte
+
+Du kannst für deinen Charakter Vor- und Nachteile auswählen, um ihr oder ihm (oder $korrektesPronomen) mehr Tiefe zu verleihen. Um Powergaming zu vermeiden, sollten sich diese mehr oder weniger ausgleichen.
+
+Beispiele:
+
+==== Vorteile
+
+- Kontakte (z.B. kennt vertrauenswürdige Händler, Mechaniker, CEOs oder Politiker auf einer Raumstation - oder hatte schon Berührung mit Schmugglern)
+- Reichtum (hat ein reparaturbedürftiges Schiff in einem Raumhafen liegen, daß ein reicher Onkel hinterlassen / geschenkt hat)
+- Begabungen (Eltern haben eine teure embrionale Gentherapie bezahlt: +x auf Intelligenz oder Stärke)
+- Spezielle Ausbildung an Eliteuniversität (z.B. Wissenschaftler mit 3 Fachgebieten oder allgemein +1 Berufsskills )
+- zusätzliches Implantat 
+- ...
+
+==== Nachteile
+
+- Auf der Flucht vor Konsequenzen (in einem anderen System falsch oder zurecht eines Verbrechens angeklagt)
+- Besondere Schwäche (Attribut mit -2 durch nicht verheilte Verletzung; "ungeschickt" = -2 auf Geschicklichkeit)
+- defektes Implantat (kein Geld, um die Hormonsteuerung zu reparieren: Wutanfälle statt innerer Ruhe bei Stress)
+- schlechter Ruf (berechtigt? Evtl. durch die Familie oder den Konzern, wo der Charakter gearbeitet hat)
+- Schulden (mehr oder weniger rabiate Gläubiger)
+- ...
