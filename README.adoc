@@ -96,6 +96,7 @@ Du kannst auch Skills von anderen Berufen wählen, aber diese haben dann "Einste
 * Klettern
 * Programmieren
 * Hacken / Kryptographie
+* Erste Hilfe
 
 === Implantate
 
