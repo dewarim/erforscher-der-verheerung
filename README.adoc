@@ -21,7 +21,11 @@ W6-basiert.
 
 Beispiel: Standardangriff: 3w6, Treffer gegen menschlichen Gegner ohne Rüstung bei 8.
 
-Proben auf Attribute und Skills erfolgen ebenfalls über 3W6. Skills aus dem gewählten Beruf bekommen 3W6 und ermöglichen erschwerte Proben ohne zusätzliche Abzüge.
+Proben auf Attribute: Attribut + 3W6 +- Modifikator(Schwierigkeit), Ergebnis muß bei >20 oder höher liegen.
+
+Proben auf Skills: Basis 3W6 + Level +- Modifikator(Schwierigkeit), Ergebnis muß bei >11 liegen.
+
+(mögliche Erweiterung: Skill-Level)
 
 == Charaktererstellung
 
@@ -38,6 +42,10 @@ Im Moment ist die Start-Rasse Mensch. Grundwert für alle Attribute ist 10. Bonu
 * Wahrnehmung
 * Willenskraft
 
+* Lebenspunkte: 3W6 + Konstitution
+
+(mögliche Erweiterung: Chi / Mana / Psi-Kraft)
+
 === Berufe (Klassen)
 
 Die Charaktere verfügen über die Standard-Grundausbildung für Raumfahrer (entsprechend einem Grundstudium). Sie können also mit Unterstützung der nicht-autonomen Künstlichen Intelligenz an Bord eines normalen Raumschiffes die alltäglichen Arbeiten zu Betrieb und Wartung übernehmen. Das ist z.B. Luftfilter wechseln, ein kleines Leck mit einem Notflicken abdichten oder eine Funkverbindung herstellen. Für ungewöhnliche Situationen sind aber stets Experten erforderlich. Die KI kann unterstützen, aber das Ergebnis ist (spieltechnisch betrachtet) dann nur Mittelmaß.
@@ -50,7 +58,7 @@ link:berufe.adoc[Liste der Berufe]
 
 (Ohne Anspruch auf Vollständigkeit - weitere Vorschläge willkommen)
 
-Neue Charaktere wählen n Skills aus. 
+Neue Charaktere wählen 7 Skills aus. 
 
 Du kannst auch Skills von anderen Berufen wählen, aber diese haben dann "Einsteiger/Amateur"-Level und bekommen nur 2W6 auf alle Proben. 
 
@@ -74,7 +82,7 @@ Du kannst auch Skills von anderen Berufen wählen, aber diese haben dann "Einste
 ** Technik
 ** Chemie
 ** Physik
-* Kampf (für Nicht-Kampfberufe)
+* Kampf (für Nicht-Kampfberufe; jeder kann im Prinzip eine Waffe schwingen oder abfeuern, aber ohne Übung bekommt man deutliche Abzüge)
 ** Nahkampf
 ** Schußwaffen
 ** Historische Waffen (Schwerter, Bogen... - wähle eine Unterspezialisierung)
@@ -86,7 +94,6 @@ Du kannst auch Skills von anderen Berufen wählen, aber diese haben dann "Einste
 * Brennen (hochprozentigen Alkohol)
 * Klettern
 * Programmieren
-** Schiffssoftware
-** Hacken / Kryptographie
-** KI
+* Hacken / Kryptographie
+
 
