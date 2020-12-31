@@ -85,3 +85,8 @@ Du kannst auch Skills von anderen Berufen wählen, aber diese haben dann "Einste
 * Brauen (Bier aus Algen, Gen-Gerste und Venushefe? Lecker!)
 * Brennen (hochprozentigen Alkohol)
 * Klettern
+* Programmieren
+** Schiffssoftware
+** Hacken / Kryptographie
+** KI
+
