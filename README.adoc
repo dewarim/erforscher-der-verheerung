@@ -115,10 +115,10 @@ Beispiele:
 - Bio-CPU: ein Computer im Kopf, erlaubt die direkte Kommunikation mit Computersystemen ("Wifi für's Hirn").
 - Kraftverstärker: synthetische Muskeln bzw. optimieret Muskelsysteme für einen direkten Bonus zu Stärke (normale Qualität: +2)
 - Optik: Cyberauge - endlich (aus-)sehen wie der Terminator!
-- Waffenimplantate
--- Laser
--- Miniraketenwerfer
--- Klingen (Spacewolverine)
+* Waffenimplantate
+** Laser
+** Miniraketenwerfer
+** Klingen (Spacewolverine)
 - andere Organe (Lungensystem: ersetzt einen Teil der Lunge; Ohren: Geräuschsensoren ... "Der CPU-Lüfter läuft schon wieder unrund")
 - Kampfaugmentierung: (normal: +1) Bonus auf Treffer, Schaden, Reaktion
 - Schutzimplantate (Metallschädel, Knochenverstärker): reduzieren oder verhindern Schaden. (Normale Qualität: -2 Schadenspunkte bei mechanischer Einwirkung wie Stich-, Hieb- und Schnittverletzungen)
