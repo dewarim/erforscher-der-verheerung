@@ -108,17 +108,17 @@ Neue Charaktere dürfen 1 Implantat normaler Qualität auswählen, weitere könn
 
 Beispiele:
 
-- erweiterter Herzschrittmacher (inkl. Schutz vor Stromschlägen, beliebt bei Mechanikern...)
-- Blutfilter (Gifte wie Alkohol können ausgefiltert oder abgebaut werden)
-- Hormonregler und Medikamentenspender (z.B. automatischer Adrenalinschub für Stress- und Kampfsituationen, bzw. dämpfende Medikamente gegen Panikattacken wenn der Charakter unter Zeitdruck den Sauerstoffvorrat anschließen muß).
-- Kommunikationsimplantat (kleiner Chip im Ohr/Kopf, um über Funk mit dem Bordsystem und der Mannschaft zu reden. Alternative sind normale Helm-Mikrophone und die Sprechanlagen an Bord)
-- Bio-CPU: ein Computer im Kopf, erlaubt die direkte Kommunikation mit Computersystemen ("Wifi für's Hirn").
-- Kraftverstärker: synthetische Muskeln bzw. optimieret Muskelsysteme für einen direkten Bonus zu Stärke (normale Qualität: +2)
-- Optik: Cyberauge - endlich (aus-)sehen wie der Terminator!
+* erweiterter Herzschrittmacher (inkl. Schutz vor Stromschlägen, beliebt bei Mechanikern...)
+* Blutfilter (Gifte wie Alkohol können ausgefiltert oder abgebaut werden)
+* Hormonregler und Medikamentenspender (z.B. automatischer Adrenalinschub für Stress- und Kampfsituationen, bzw. dämpfende Medikamente gegen Panikattacken wenn der Charakter unter Zeitdruck den Sauerstoffvorrat anschließen muß).
+* Kommunikationsimplantat (kleiner Chip im Ohr/Kopf, um über Funk mit dem Bordsystem und der Mannschaft zu reden. Alternative sind normale Helm-Mikrophone und die Sprechanlagen an Bord)
+* Bio-CPU: ein Computer im Kopf, erlaubt die direkte Kommunikation mit Computersystemen ("Wifi für's Hirn").
+* Kraftverstärker: synthetische Muskeln bzw. optimieret Muskelsysteme für einen direkten Bonus zu Stärke (normale Qualität: +2)
+* Optik: Cyberauge - endlich (aus-)sehen wie der Terminator!
 * Waffenimplantate
 ** Laser
 ** Miniraketenwerfer
 ** Klingen (Spacewolverine)
-- andere Organe (Lungensystem: ersetzt einen Teil der Lunge; Ohren: Geräuschsensoren ... "Der CPU-Lüfter läuft schon wieder unrund")
-- Kampfaugmentierung: (normal: +1) Bonus auf Treffer, Schaden, Reaktion
-- Schutzimplantate (Metallschädel, Knochenverstärker): reduzieren oder verhindern Schaden. (Normale Qualität: -2 Schadenspunkte bei mechanischer Einwirkung wie Stich-, Hieb- und Schnittverletzungen)
+* andere Organe (Lungensystem: ersetzt einen Teil der Lunge; Ohren: Geräuschsensoren ... "Der CPU-Lüfter läuft schon wieder unrund")
+* Kampfaugmentierung: (normal: +1) Bonus auf Treffer, Schaden, Reaktion
+* Schutzimplantate (Metallschädel, Knochenverstärker): reduzieren oder verhindern Schaden. (Normale Qualität: -2 Schadenspunkte bei mechanischer Einwirkung wie Stich-, Hieb- und Schnittverletzungen)
