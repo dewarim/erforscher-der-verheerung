@@ -87,11 +87,3 @@ Bedienung von komplexen Geräten (Drohnen, Schutzschirme, Laderoboter...)
 ==== Mechaniker 
 
 Reparatur und Wartung von Geräten
-
-==== Programmierer
-
-Hacken & Softwareentwicklung mit/ohne KI-Unterstützung; Spezialisierung: Firmware, Cryptographie, KI
-
-==== Verwerter (Scavenger) 
-
-Durch die Verheerung entstandener Beruf: Abwracken und Plündern von Wracks, wertige Komponenten identifiziern und ausbauen.
