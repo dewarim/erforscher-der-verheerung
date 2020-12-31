@@ -22,24 +22,24 @@ Verfügt über theoretisches Wissen zum jeweiligen Fachgebiet und kann Expertens
 
 Fachrichtungen (bis zu 2 auswählen für einen neuen Charakter)
 
-- Xenoanthropologie (Humanoidologie :) ) - es wurden Überreste vieler humanoider Rassen gefunden. Ein komplett neues Forschungsgebiet!
-- Biologie
--- Sauerstoffversorgung (komplexe Hydroponik, vgl. die Sauerstofferzeugung in The Expanse)
--- Xeno-Flora (stets inkl. irdischer Flora zum Vergleich)
--- Xeno-Fauna
-- Chemie
--- Betriebsstoffe (vom weltraumtauglichen Schmieröl bis zum Synth-Kaffee)
--- Analyse von Stoffen
-- Physik
--- Raketenwissenschaft (Antriebssysteme, Ballistik)
--- Lasertechnik
--- link:Raumflugmechanik[https://de.wikipedia.org/wiki/Raumflugmechanik]
-- FTL-Theorie und Hyperraumantriebe (FTL = Faster Than Light = Überlichtreisen)
-- Stellare und lokale Astronomie
-- Linguistik
-- Nanotechnologie
-- Robotik
-- Xeno-Informatik - die Verheerung spuckt fremdartige Wracks aus, deren IT-Systeme von massiven Energieströmen zerstört werden. Aber manchmal finden Forscher auch funktionsfähige Prozessoren mit noch identifizierbarer Software. Von der Auswertung versprechen sich manche Wissenschaftler neue Erkenntnisse über Antriebstechnik, Scanner, Waffensysteme, Kraftfelder und Robotersteuerungen. Vielleicht sogar eines Tage echte künstliche Intelligenzen?
+* Xenoanthropologie (Humanoidologie :) ) - es wurden Überreste vieler humanoider Rassen gefunden. Ein komplett neues Forschungsgebiet!
+* Biologie
+** Sauerstoffversorgung (komplexe Hydroponik, vgl. die Sauerstofferzeugung in The Expanse)
+** Xeno-Flora (stets inkl. irdischer Flora zum Vergleich)
+** Xeno-Fauna
+* Chemie
+** Betriebsstoffe (vom weltraumtauglichen Schmieröl bis zum Synth-Kaffee)
+** Analyse von Stoffen
+* Physik
+** Raketenwissenschaft (Antriebssysteme, Ballistik)
+** Lasertechnik
+** link:Raumflugmechanik[https://de.wikipedia.org/wiki/Raumflugmechanik]
+* FTL-Theorie und Hyperraumantriebe (FTL = Faster Than Light = Überlichtreisen)
+* Stellare und lokale Astronomie
+* Linguistik
+* Nanotechnologie
+* Robotik
+* Xeno-Informatik - die Verheerung spuckt fremdartige Wracks aus, deren IT-Systeme von massiven Energieströmen zerstört werden. Aber manchmal finden Forscher auch funktionsfähige Prozessoren mit noch identifizierbarer Software. Von der Auswertung versprechen sich manche Wissenschaftler neue Erkenntnisse über Antriebstechnik, Scanner, Waffensysteme, Kraftfelder und Robotersteuerungen. Vielleicht sogar eines Tage echte künstliche Intelligenzen?
 
 = Mediziner 
 
@@ -57,28 +57,28 @@ Wähle 3
 
 Wähle 3
 
-- Schätzen (mit deinem kommerziellen Hintergrund kannst du den ungefähren Wert einer Sache bestimmen)
-- Feilschen (wie auf dem Basar)
-- Verhandeln (damit kannst du intergalaktische Handy-Verträge aushandeln)
-- Kalkulation (Budgetplanung, Reichweite von Treibstoff + Sauerstoffvorrat + Lebensmitteln + Verbrauchsmaterial bei Expeditionen etc) 
-- Händler-Wissen: exotisch; wähle 2 Unterskills
--- Nahrungsmittel
--- Metalle und seltene Erden
--- Gifte
--- Kunst
--- Stoffe und Kleidung (Alien-Seidenschlüpfer erzielen Höchstpreise, auch wenn kaum jemand die vier nötigen Beine hat, um sie zu tragen)
+* Schätzen (mit deinem kommerziellen Hintergrund kannst du den ungefähren Wert einer Sache bestimmen)
+* Feilschen (wie auf dem Basar)
+* Verhandeln (damit kannst du intergalaktische Handy-Verträge aushandeln)
+* Kalkulation (Budgetplanung, Reichweite von Treibstoff + Sauerstoffvorrat + Lebensmitteln + Verbrauchsmaterial bei Expeditionen etc) 
+* Händler-Wissen: exotisch; wähle 2 Unterskills
+** Nahrungsmittel
+** Metalle und seltene Erden
+** Gifte
+** Kunst
+** Stoffe und Kleidung (Alien-Seidenschlüpfer erzielen Höchstpreise, auch wenn kaum jemand die vier nötigen Beine hat, um sie zu tragen)
 
 = Kämpfer
 
 Wähle 2 Spezialisierungen, dazu kommt der Skill: Schußwaffen (professionell): 3W6 auf Treffer 
 
-- Sicherheit auf Station (Personenschutz, Kenntnis von Sicherheitsprotokollen)
-- Abwehr von Kaperversuchen
-- Bedienung von Gefechtscomputern (Schiff-zu-Schiff Kampf)
-- Roboterkampf - "eigentlich" können Kampfroboter nicht durchdrehen...
-- Kampf mit Powerarmor
-- 0-G Nahkampf 
-- Große Waffen (Raketenwerfer, Flak, Maschinengewehr und schwere Bolter)
+* Sicherheit auf Station (Personenschutz, Kenntnis von Sicherheitsprotokollen)
+* Abwehr von Kaperversuchen
+* Bedienung von Gefechtscomputern (Schiff-zu-Schiff Kampf)
+* Roboterkampf - "eigentlich" können Kampfroboter nicht durchdrehen...
+* Kampf mit Powerarmor
+* 0-G Nahkampf 
+* Große Waffen (Raketenwerfer, Flak, Maschinengewehr und schwere Bolter)
 
 = Technikerin
 
