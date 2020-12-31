@@ -68,7 +68,7 @@ Wähle 3
 -- Kunst
 -- Stoffe und Kleidung (Alien-Seidenschlüpfer erzielen Höchstpreise, auch wenn kaum jemand die vier nötigen Beine hat, um sie zu tragen)
 
-==== Kämpfer
+= Kämpfer
 
 Wähle 2 Spezialisierungen, dazu kommt der Skill: Schußwaffen (professionell): 3W6 auf Treffer 
 
@@ -80,7 +80,7 @@ Wähle 2 Spezialisierungen, dazu kommt der Skill: Schußwaffen (professionell): 
 - 0-G Nahkampf 
 - Große Waffen (Raketenwerfer, Flak, Maschinengewehr und schwere Bolter)
 
-==== Technikerin
+= Technikerin
 
 Bedienung von komplexen Geräten.
 
@@ -93,8 +93,22 @@ Wähle 3
 - Nanomaschinen 
 - Energiesysteme (Reaktoren)
 - Lebenserhaltende Systeme (Gas, Wasser, Sch... - und Luftfilter)
-- Fertigungsmaschinen (bzw.: Werkstatt / Produktion)
+- Fertigungsmaschinen (bzw.: Werkstatt / Produktion; 3D-Drucker)
 
-==== Mechaniker 
+= Mechaniker 
 
-Reparatur und Wartung von Geräten
+Bau, Reparatur und Wartung von Geräten
+
+Wähle 2, dazu kommt:  Allgemeine Raumschifftechnik (Schleusen, Scanner, Funksysteme etc)
+
+- Fahrzeuge
+- Fertigungsmaschinen (u.a. Ersatzteile, 3D-Drucker)
+- Waffensysteme
+- Antriebstechnik
+- Roboter
+- Drohnen
+- Laser & Optik
+
+= Andere Berufe
+
+-> Erstelle eine Liste von möglichen Skills und schicke sie mir :)
