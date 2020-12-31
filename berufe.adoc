@@ -82,7 +82,18 @@ Wähle 2 Spezialisierungen, dazu kommt der Skill: Schußwaffen (professionell): 
 
 ==== Technikerin
 
-Bedienung von komplexen Geräten (Drohnen, Schutzschirme, Laderoboter...)
+Bedienung von komplexen Geräten.
+
+Wähle 3
+
+- Drohnen (fliegende, im Schiff und außerhalb einsetzbare kleine und mittlere Bots)
+- Mehrzweckroboter (an Bord eingesetzte Maschinen, vom Spaceroomba zum Leck-Abdichter)
+- Große Roboter (Laderoboter, Bagger, Tunnelbohrer etc)
+- Schutzschirme (Kalibrierung, Betrieb)
+- Nanomaschinen 
+- Energiesysteme (Reaktoren)
+- Lebenserhaltende Systeme (Gas, Wasser, Sch... - und Luftfilter)
+- Fertigungsmaschinen (bzw.: Werkstatt / Produktion)
 
 ==== Mechaniker 
 
