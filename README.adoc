@@ -45,6 +45,7 @@ Im Moment ist die Start-Rasse Mensch. Grundwert für alle Attribute ist 10. Bonu
 * Lebenspunkte: 3W6 + Konstitution
 
 (mögliche Erweiterung: Chi / Mana / Psi-Kraft)
+(TODO: Bonus auf Skillwürfe durch hohe Attribute)
 
 === Berufe (Klassen)
 
