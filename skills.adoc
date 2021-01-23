@@ -32,6 +32,10 @@ a|das Wissen um die Grundregeln und das Verhalten in einer bestimmten gesellscha
 |0-G Training|
 (Kann komplexe Aktionen in Schwerelosigkeit durchführen ohne die Übersicht zu verlieren, erlaubt einem Mediziner z.B. die Wundversorgung ohne daß die Bandagen in einem Moment der Unachtsamkeit davonfliegen, während er den Patienten stabilisiert)
 
+|Bergbau|Asteroiden sind oft voll mit wertvollen Metallen - oder einfach nur Eis, um den Cocktail des Kommandanten zu kühlen (und die H2O-Vorräte aufzufüllen ). Dieser Skill vermittelt die Grundlagen (Scanning, Rentabilitätsberechnung usw)
+
+
+
 |===
 
 Bei Wissens-Skills geht es im Unterschied zu Etikette nicht um das Verhalten, sondern mehr um Strukturen, Organisationen, Geschichte, Namen und Orte
@@ -51,6 +55,7 @@ Bei Wissens-Skills geht es im Unterschied zu Etikette nicht um das Verhalten, so
 |  Technik|
 |  Chemie|
 |  Physik|
+| Weltraumrecht| "Ist das nicht irgendwie verboten // Ist das tatsächlich erlaubt?" - Die Ärzte, Meine Freunde
 
 |===
 
@@ -61,7 +66,8 @@ Bei Wissens-Skills geht es im Unterschied zu Etikette nicht um das Verhalten, so
 | Kampf::Grundlagen | (für Nicht-Kampfberufe; jeder kann im Prinzip eine Waffe schwingen oder abfeuern, aber ohne Übung bekommt man deutliche Abzüge)
 | Nahkampf|
 | Schußwaffen|
-|Historische Waffen| (Schwerter, Bogen... - wähle eine Unterspezialisierung)
+| Historische Waffen| (Schwerter, Bogen... - wähle eine Unterspezialisierung)
+| Schiffsgeschütze|
 
 |===
 

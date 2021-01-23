@@ -53,7 +53,7 @@ Die Charaktere verfügen über die Standard-Grundausbildung für Raumfahrer (ent
 
 Skills und Fähigkeiten, die aus Berufen stammen, haben einen Basiswert von 3W6 für Proben und ermöglichen Proben für schwierige Situationen ohne Extraabzüge (gegenüber Amateuren, die nur 2W6 für Skills von fremden Berufen erhalten).
 
-link:berufe.adoc[Liste der Berufe]
+include::berufe.adoc[leveloffset+2]
 
 include::skills.adoc[leveloffset+2]
 
@@ -107,3 +107,18 @@ Beispiele:
 - schlechter Ruf (berechtigt? Evtl. durch die Familie oder den Konzern, wo der Charakter gearbeitet hat)
 - Schulden (mehr oder weniger rabiate Gläubiger)
 - ...
+
+
+== Welt
+
+TODO
+
+=== Roboter
+
+=== Sec-Units
+
+Inspiriert von Martha Wells' Murderbot Chronicles: Androiden, die ein biologisches Gehirn mit einem leistungsfähigen Elektronengehirn verbinden - und einem Kontrollchip, der sicherstellen soll, daß sie auf keinen Fall zu Mörderbots werden. Diese Bots werden bei Außeneinsätzen auf fremden Planeten oder bei diplomatischen Missionen zu potenziell aggressiven Parteien verwendet. Sie gelten offiziell als Sachen, nicht als Personen. Arbeiten Anweisungen selbständig ab, dürfen sich nicht zu weit vom Besitzer entfernen.
+
+=== Combat-Units
+
+Sec-units mit schweren Waffen, werden zur Sicherung kritischer Infrastruktur oder für krigerische Auseinandersetzungen verwendet.

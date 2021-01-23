@@ -1,6 +1,8 @@
+= Berufe
+
 Das folgende ist eine vereinfachte Liste - "Händlerin" ist leichter verständlich als "Kauffrau für interplanetaren Resourcen-Im- und Export"
 
-= Pilot
+== Pilot
 
 Wähle 2 Spezialisierungen:
 
@@ -15,8 +17,7 @@ Wähle 2 Spezialisierungen:
 
 Unterspezialisierungen auf bestimmte Modelle können einen zusätzlichen Bonus bringen. 
 
-
-= Wissenschaftler
+== Wissenschaftler
 
 Verfügt über theoretisches Wissen zum jeweiligen Fachgebiet und kann Expertensysteme dazu bedienen.
 
@@ -41,7 +42,7 @@ Fachrichtungen (bis zu 2 auswählen für einen neuen Charakter)
 * Robotik
 * Xeno-Informatik - die Verheerung spuckt fremdartige Wracks aus, deren IT-Systeme von massiven Energieströmen zerstört werden. Aber manchmal finden Forscher auch funktionsfähige Prozessoren mit noch identifizierbarer Software. Von der Auswertung versprechen sich manche Wissenschaftler neue Erkenntnisse über Antriebstechnik, Scanner, Waffensysteme, Kraftfelder und Robotersteuerungen. Vielleicht sogar eines Tage echte künstliche Intelligenzen?
 
-= Mediziner 
+== Mediziner
 
 Wähle 3
 
@@ -53,7 +54,7 @@ Wähle 3
 - Geisteskrankheiten (Agoraphobie? Wieso, im All ist doch gar nichts, nur unendliche Weiten... oh.)
 - Schutzprotokolle für Raumfahrer (Raumanzug gegen Reaktorstrahlung? Nebel aus Nanomaschinen vs FFP4-Masken? Reicht Alkohol, um Ewok-Läuse abzutöten?)
 
-= Händlerin 
+== Händlerin
 
 Wähle 3
 
@@ -68,7 +69,7 @@ Wähle 3
 ** Kunst
 ** Stoffe und Kleidung (Alien-Seidenschlüpfer erzielen Höchstpreise, auch wenn kaum jemand die vier nötigen Beine hat, um sie zu tragen)
 
-= Kämpfer
+== Kämpfer
 
 Wähle 2 Spezialisierungen, dazu kommt der Skill: Schußwaffen (professionell): 3W6 auf Treffer 
 
@@ -80,7 +81,7 @@ Wähle 2 Spezialisierungen, dazu kommt der Skill: Schußwaffen (professionell): 
 * 0-G Nahkampf 
 * Große Waffen (Raketenwerfer, Flak, Maschinengewehr und schwere Bolter)
 
-= Technikerin
+== Technikerin
 
 Bedienung von komplexen Geräten.
 
@@ -95,7 +96,7 @@ Wähle 3
 - Lebenserhaltende Systeme (Gas, Wasser, Sch... - und Luftfilter)
 - Fertigungsmaschinen (bzw.: Werkstatt / Produktion; 3D-Drucker)
 
-= Mechaniker 
+== Mechaniker
 
 Bau, Reparatur und Wartung von Geräten
 
