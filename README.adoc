@@ -55,48 +55,8 @@ Skills und Fähigkeiten, die aus Berufen stammen, haben einen Basiswert von 3W6 
 
 link:berufe.adoc[Liste der Berufe]
 
-=== Skills
+include::skills.adoc[leveloffset+2]
 
-(Ohne Anspruch auf Vollständigkeit - weitere Vorschläge willkommen)
-
-Neue Charaktere wählen 7 Skills aus. 
-
-Du kannst auch Skills von anderen Berufen wählen, aber diese haben dann "Einsteiger/Amateur"-Level und bekommen nur 2W6 auf alle Proben. 
-
-* 0-G Training (Kann komplexe Aktionen in Schwerelosigkeit durchführen ohne die Übersicht zu verlieren, erlaubt einem Mediziner z.B. die Wundversorgung ohne daß die Bandagen in einem Moment der Unachtsamkeit davonfliegen, während er den Patienten stabilisiert)
-* Feilschen
-* Überreden
-* Etikette: das Wissen um die Grundregeln und das Verhalten in einer bestimmten gesellschaftlichen Gruppe
-** Konzerne / Wirtschaft
-** Wissenschaft
-** Scavenger - z.B. daß man kein Wrack ausbeutet, daß schon ein anderer in diesem Moment in Arbeit hat.
-** Unterwelt
-* Wissen (Lore) - im Unterschied zu Etikette geht es nicht um das Verhalten, sondern mehr um Strukturen, Organisationen, Geschichte, Namen und Orte:
-** Verheerung
-** Galaktische Föderation
-** Weltraumpiraten, Schmuggler (Überlappt mit Etikette: Unterwelt)
-** Religionen
-** Waffensysteme und Schutzschilde
-** Außerirdische Lebensformen (Flora und Fauna von bisher gefundenen Planeten in der Galaxis)
-** Roboter
-** Große Maschinen (Recycler, die ein ganzes Schiff automatisch auseinandernehmen; Asteroiden-Bergbaumaschinen)
-** Technik
-** Chemie
-** Physik
-* Kampf (für Nicht-Kampfberufe; jeder kann im Prinzip eine Waffe schwingen oder abfeuern, aber ohne Übung bekommt man deutliche Abzüge)
-** Nahkampf
-** Schußwaffen
-** Historische Waffen (Schwerter, Bogen... - wähle eine Unterspezialisierung)
-* Suchen (z.B. versteckte Waffensysteme oder einen Safe)
-* Feilschen
-* Schwimmen
-* Singen
-* Brauen (Bier aus Algen, Gen-Gerste und Venushefe? Lecker!)
-* Brennen (hochprozentigen Alkohol)
-* Klettern
-* Programmieren
-* Hacken / Kryptographie
-* Erste Hilfe
 
 === Implantate
 
