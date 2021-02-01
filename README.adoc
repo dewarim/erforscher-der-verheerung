@@ -21,7 +21,7 @@ W6-basiert.
 
 Beispiel: Standardangriff: 3w6, Treffer gegen menschlichen Gegner ohne Rüstung bei 8.
 
-Proben auf Attribute: Attribut + 3W6 +- Modifikator(Schwierigkeit), Ergebnis muß bei >20 oder höher liegen.
+Proben auf Attribute: Attribut + 3W6 +- Modifikator(Schwierigkeit), Ergebnis muß bei >20 liegen.
 
 Proben auf Skills: Basis 3W6 + Level +- Modifikator(Schwierigkeit), Ergebnis muß bei >11 liegen.
 
