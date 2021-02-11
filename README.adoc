@@ -47,6 +47,14 @@ Im Moment ist die Start-Rasse Mensch. Grundwert für alle Attribute ist 10. Bonu
 (mögliche Erweiterung: Chi / Mana / Psi-Kraft)
 (TODO: Bonus auf Skillwürfe durch hohe Attribute)
 
+=== Level
+
+Für Abenteuer bekommt man Erfahrung. Mit Erfahrung bekommt man Level. Mit Leveln bekommt man Attribut-Punkte zum Verteilen (+1 in Lv 1,2,3,5,6 und danach +1 alle 3 Level).
+
+Mit zusätzlichen Leveln bekommt man auch zusätzliche Skills - wähle +1 Skill in jedem geraden Level (2,4,6,...).
+
+Und je länger dein Charakter dabei ist, desto besser kann er in seinen Skills werden. Pro Level verteile 3 Skillpunkte (= Bonus auf deinen Würfelwurf, wenn du Skillproben machst)
+
 === Berufe (Klassen)
 
 Die Charaktere verfügen über die Standard-Grundausbildung für Raumfahrer (entsprechend einem Grundstudium). Sie können also mit Unterstützung der nicht-autonomen Künstlichen Intelligenz an Bord eines normalen Raumschiffes die alltäglichen Arbeiten zu Betrieb und Wartung übernehmen. Das ist z.B. Luftfilter wechseln, ein kleines Leck mit einem Notflicken abdichten oder eine Funkverbindung herstellen. Für ungewöhnliche Situationen sind aber stets Experten erforderlich. Die KI kann unterstützen, aber das Ergebnis ist (spieltechnisch betrachtet) dann nur Mittelmaß.
