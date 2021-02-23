@@ -4,14 +4,17 @@ Ein einfaches Science Fiction Rollenspiel.
 
 = Szenario
 
-Einige Jahrhunderte in der Zukunft: Die Menschheit hat sich Dank der Entdeckung des Überlichtantriebs in der Galaxie ausgebreitet und erste Hinweise auf außerirdische Zivilisationen gefunden (TODO: 1st/2nd contact?).
+Einige Jahrhunderte in der Zukunft: Die Menschheit hat sich Dank der Entdeckung des Überlichtantriebs in der Galaxie ausgebreitet und erste Hinweise auf außerirdische Zivilisationen gefunden.
 
-Vor 20 Jahren wurde die Verheerung (The Cataclysm) entdeckt - ein neues Wurmloch im unbewohnten Sternensystem DEVA-S209-K, das unentwegt Wracks von Raumschiffen aller Art ausspuckt und in chaotische Umlaufbahnen stößt. Die Schiffe sind nicht irdischen Ursprungs, sondern scheinen von einer Unzahl humanoider Rassen gebaut worden zu sein. Bisher wurden keine Überlebenden gefunden, und die Zerstörung hat fast immer extreme Ausmaße.
+Vor 20 Jahren wurde die Verheerung (The Cataclysm) entdeckt - ein neues Wurmloch im unbewohnten Sternensystem DEVA-S209-K, das unentwegt Wracks von Raumschiffen aller Art ausspuckt und in chaotische Umlaufbahnen stößt.
+Die Schiffe sind nicht irdischen Ursprungs, sondern scheinen von einer Unzahl humanoider Rassen gebaut worden zu sein.
+Bisher wurden keine Überlebenden gefunden, und die Zerstörung hat fast immer extreme Ausmaße.
 
-Am Rand des Systems wurden in großer Eile eine Zahl an Raumstationen gebaut, und große Recycler-Stationen nahmen ihre Arbeit auf, um die Schiffe zu verwerten, die aus dem gefährlichen inneren Ring herausdriften.  
+Am Rand des Systems wurden in großer Eile eine Zahl an Raumstationen gebaut, und große Recycler-Stationen nahmen ihre Arbeit auf, um die Schiffe zu verwerten, die aus dem gefährlichen inneren Ring herausdriften. Mehrere Raumstationen wurden gebaut, um die
+Arbeit von Konzernen, Händlern, Forschern und Militär zu unterstützen.
 
-Die Spieler sind Erforscher / Abenteurer in diesem System und versuchen, zusammen mit zehntausenden anderen ihr Glück zu versuchen. 
-Ruhm, Reichtum und die Geheimnisse der Verheerung erwarten sie ... 
+Die Spieler sind Erforscher / Abenteurer in diesem System und versuchen, zusammen mit zehntausenden anderen ihr Glück zu versuchen.
+Ruhm, Reichtum und die Geheimnisse der Verheerung erwarten sie ...
 
 = Regeln
 
@@ -21,15 +24,17 @@ W6-basiert.
 
 Beispiel: Standardangriff: 3w6, Treffer gegen menschlichen Gegner ohne Rüstung bei 8.
 
-Proben auf Attribute: Attribut + 3W6 +- Modifikator(Schwierigkeit), Ergebnis muß bei >20 liegen.
+Proben auf Attribute: Attribut + 3W6 +- Modifikator(Schwierigkeit), Ergebnis muss bei >20 liegen.
 
-Proben auf Skills: Basis 3W6 + Level +- Modifikator(Schwierigkeit), Ergebnis muß bei >11 liegen.
-
-(mögliche Erweiterung: Skill-Level)
+Proben auf Skills: Basis 3W6 + Level +- Modifikator(Schwierigkeit), Ergebnis muss bei >11 liegen.
 
 == Charaktererstellung
 
-Im Moment ist die Start-Rasse Mensch. Grundwert für alle Attribute ist 10. Bonuspunkte zur Verteilung beim Erstellen eines Charakters: 10. Ein Attribut kann um bis zu 4 Punkte gesenkt werden, um ein anderes zu erhöhen.
+Im Moment ist die Start-Rasse Mensch.
+
+Grundwert für alle Attribute ist 10. Bonuspunkte zur Verteilung beim Erstellen eines Charakters: 10.
+Ein Attribut kann um bis zu 4 Punkte gesenkt werden, um ein anderes zu erhöhen.
+Maximalwert für Attribute bei Menschen ist (vorerst) 18.
 
 === Attribute
 
@@ -45,19 +50,35 @@ Im Moment ist die Start-Rasse Mensch. Grundwert für alle Attribute ist 10. Bonu
 * Lebenspunkte: 3W6 + Konstitution
 
 (mögliche Erweiterung: Chi / Mana / Psi-Kraft)
-(TODO: Bonus auf Skillwürfe durch hohe Attribute)
+
+==== Bonus durch Attribute
+
+Jedes Attribut gibt einen Bonus auf bestimmte Skills und Kampffähigkeiten.
+Der Bonus ist Attributwert geteilt durch 3, gerundet (1,49 == 1 und 1,50 == 2).
+Wenn zwei oder mehr Attribute eine Rolle spielen, wähle ein Attribut aus, das seinen vollen Bonus gibt, und die folgenden geben die Hälfte Bonus.
+
+Beispiel: dein Paradewurf von 3W6 bekommt einen Bonus durch Geschicklichkeit und Schnelligkeit.
+Beide Attribute sind auf 12, geben also +4 Bonus.
+So bekommst du durch ds eine +4, durch das andere +2 (50%), insgesamt +6.
 
 === Level
 
-Für Abenteuer bekommt man Erfahrung. Mit Erfahrung bekommt man Level. Mit Leveln bekommt man Attribut-Punkte zum Verteilen (+1 in Lv 1,2,3,5,6 und danach +1 alle 3 Level).
+Für Abenteuer bekommt man Erfahrung.
+Mit Erfahrung bekommt man Level.
+Mit Leveln bekommt man Attribut-Punkte zum Verteilen (+1 in Lv 1,2,3,5,6 und danach +1 alle 3 Level).
 
 Mit zusätzlichen Leveln bekommt man auch zusätzliche Skills - wähle +1 Skill in jedem geraden Level (2,4,6,...).
 
-Und je länger dein Charakter dabei ist, desto besser kann er in seinen Skills werden. Pro Level verteile 3 Skillpunkte (= Bonus auf deinen Würfelwurf, wenn du Skillproben machst)
+Und je länger dein Charakter dabei ist, desto besser kann er in seinen Skills werden.
+Pro Level verteile 3 Skillpunkte (= Bonus auf deinen Würfelwurf, wenn du Skillproben machst)
 
 === Berufe (Klassen)
 
-Die Charaktere verfügen über die Standard-Grundausbildung für Raumfahrer (entsprechend einem Grundstudium). Sie können also mit Unterstützung der nicht-autonomen Künstlichen Intelligenz an Bord eines normalen Raumschiffes die alltäglichen Arbeiten zu Betrieb und Wartung übernehmen. Das ist z.B. Luftfilter wechseln, ein kleines Leck mit einem Notflicken abdichten oder eine Funkverbindung herstellen. Für ungewöhnliche Situationen sind aber stets Experten erforderlich. Die KI kann unterstützen, aber das Ergebnis ist (spieltechnisch betrachtet) dann nur Mittelmaß.
+Die Charaktere verfügen über die Standard-Grundausbildung für Raumfahrer (entsprechend einem Grundstudium).
+Sie können also mit Unterstützung der nicht-autonomen Künstlichen Intelligenz an Bord eines normalen Raumschiffes die alltäglichen Arbeiten zu Betrieb und Wartung übernehmen.
+Das ist z.B. Luftfilter wechseln, ein kleines Leck mit einem Notflicken abdichten oder eine Funkverbindung herstellen.
+Für ungewöhnliche Situationen sind aber stets Experten erforderlich.
+Die KI kann unterstützen, aber das Ergebnis ist (spieltechnisch betrachtet) dann nur Mittelmaß.
 
 Skills und Fähigkeiten, die aus Berufen stammen, haben einen Basiswert von 3W6 für Proben und ermöglichen Proben für schwierige Situationen ohne Extraabzüge (gegenüber Amateuren, die nur 2W6 für Skills von fremden Berufen erhalten).
 
@@ -65,10 +86,10 @@ include::berufe.adoc[leveloffset+2]
 
 include::skills.adoc[leveloffset+2]
 
-
 === Implantate
 
-Implantate ermöglichen transhumane Eigenschaften. Generell gibt es Implantate für alle Körperteile (nicht-genitaler Art ... - keine Hentaitentakel bitte).
+Implantate ermöglichen transhumane Eigenschaften.
+Generell gibt es Implantate für alle Körperteile (nicht-genitaler Art ... - keine Hentaitentakel bitte).
 Je nach Qualität können die zugehörigen Attribute einen Bonus erhalten oder einfach neue Fähigkeiten hinzugefügt werden (ein wenig wie in Cyberpunk).
 
 Implantate können aus High-Tech Materialien oder aus biologischen Komponenten bestehen (diese sind deutlich teurer).
@@ -77,10 +98,12 @@ Neue Charaktere dürfen 1 Implantat normaler Qualität auswählen, weitere könn
 
 Beispiele:
 
-* erweiterter Herzschrittmacher (inkl. Schutz vor Stromschlägen, beliebt bei Mechanikern...)
+* erweiterter Herzschrittmacher (inkl.
+Schutz vor Stromschlägen, beliebt bei Mechanikern...)
 * Blutfilter (Gifte wie Alkohol können ausgefiltert oder abgebaut werden)
 * Hormonregler und Medikamentenspender (z.B. automatischer Adrenalinschub für Stress- und Kampfsituationen, bzw. dämpfende Medikamente gegen Panikattacken wenn der Charakter unter Zeitdruck den Sauerstoffvorrat anschließen muß).
-* Kommunikationsimplantat (kleiner Chip im Ohr/Kopf, um über Funk mit dem Bordsystem und der Mannschaft zu reden. Alternative sind normale Helm-Mikrophone und die Sprechanlagen an Bord)
+* Kommunikationsimplantat (kleiner Chip im Ohr/Kopf, um über Funk mit dem Bordsystem und der Mannschaft zu reden.
+Alternative sind normale Helm-Mikrophone und die Sprechanlagen an Bord)
 * Bio-CPU: ein Computer im Kopf, erlaubt die direkte Kommunikation mit Computersystemen ("Wifi für's Hirn").
 * Kraftverstärker: synthetische Muskeln bzw. optimieret Muskelsysteme für einen direkten Bonus zu Stärke (normale Qualität: +2)
 * Optik: Cyberauge - endlich (aus-)sehen wie der Terminator!
@@ -90,11 +113,13 @@ Beispiele:
 ** Klingen (Spacewolverine)
 * andere Organe (Lungensystem: ersetzt einen Teil der Lunge; Ohren: Geräuschsensoren ... "Der CPU-Lüfter läuft schon wieder unrund")
 * Kampfaugmentierung: (normal: +1) Bonus auf Treffer, Schaden, Reaktion
-* Schutzimplantate (Metallschädel, Knochenverstärker): reduzieren oder verhindern Schaden. (Normale Qualität: -2 Schadenspunkte bei mechanischer Einwirkung wie Stich-, Hieb- und Schnittverletzungen)
+* Schutzimplantate (Metallschädel, Knochenverstärker): reduzieren oder verhindern Schaden.
+(Normale Qualität: -2 Schadenspunkte bei mechanischer Einwirkung wie Stich-, Hieb- und Schnittverletzungen)
 
 === Vor- und Nachteile / Hintergrundgeschichte
 
-Du kannst für deinen Charakter Vor- und Nachteile auswählen, um ihr oder ihm (oder $korrektesPronomen) mehr Tiefe zu verleihen. Um Powergaming zu vermeiden, sollten sich diese mehr oder weniger ausgleichen.
+Du kannst für deinen Charakter Vor- und Nachteile auswählen, um ihr oder ihm (oder $korrektesPronomen) mehr Tiefe zu verleihen.
+Um Powergaming zu vermeiden, sollten sich diese mehr oder weniger ausgleichen.
 
 Beispiele:
 
@@ -104,7 +129,7 @@ Beispiele:
 - Reichtum (hat ein reparaturbedürftiges Schiff in einem Raumhafen liegen, daß ein reicher Onkel hinterlassen / geschenkt hat)
 - Begabungen (Eltern haben eine teure embrionale Gentherapie bezahlt: +x auf Intelligenz oder Stärke)
 - Spezielle Ausbildung an Eliteuniversität (z.B. Wissenschaftler mit 3 Fachgebieten oder allgemein +1 Berufsskills )
-- zusätzliches Implantat 
+- zusätzliches Implantat
 - ...
 
 ==== Nachteile
@@ -112,21 +137,69 @@ Beispiele:
 - Auf der Flucht vor Konsequenzen (in einem anderen System falsch oder zurecht eines Verbrechens angeklagt)
 - Besondere Schwäche (Attribut mit -2 durch nicht verheilte Verletzung; "ungeschickt" = -2 auf Geschicklichkeit)
 - defektes Implantat (kein Geld, um die Hormonsteuerung zu reparieren: Wutanfälle statt innerer Ruhe bei Stress)
-- schlechter Ruf (berechtigt? Evtl. durch die Familie oder den Konzern, wo der Charakter gearbeitet hat)
+- schlechter Ruf (berechtigt?
+Evtl. durch die Familie oder den Konzern, wo der Charakter gearbeitet hat)
 - Schulden (mehr oder weniger rabiate Gläubiger)
 - ...
 
+== Kampf
+
+Vor dem Abenteuer berechnen (Attributwert / 3, bei 2 Attributen gibt das 2. nur die Hälfte seines Bonus)
+
+.Kampfwerte
+|===
+|Bonus auf| Bonus durch
+
+|Initiative | Schnelligkeit
+|Parade     | Schnelligkeit & Geschicklichkeit
+|Ausweichen | Schnelligkeit & Wahrnehmung
+|Schaden (Hieb) | Stärke
+|Angriff    | Geschicklichkeit
+|Waffen     | Skill-Level (Beispiel: 3 Level im Fernkampfskill geben +3 auf Angriff)
+|===
+
+Alle Aktionen (Angriff, Ausweichen usw.) werden mit 3W6 gewürfelt und
+der jeweilige Bonus aus Attributen und ggf. Kampfskills dazu addiert.
+Situationsbedingt kann es natürlich auch einen Malus geben.
+
+=== Rundenablauf
+
+. Initiative würfeln
+. Angreifer mit höherer Initiative würfelt auf Angriff (treffen) oder macht eine andere Aktion
+. Verteidiger darf versuchen, zu parieren oder auszuweichen
+.. bei Treffer: Schaden entsprechend der Waffe auswürfeln.
+. Verteidiger greift an (oder andere Aktion)
 
 == Welt
 
-TODO
+=== Raumstationen im System
+
+
+=== Konzerne
+
+=== Raumschiffe (aktive)
+
+=== Raumschiffe (Wracks)
+
+=== Bekannte Technologien
+
+* Reisen zwischen Systemen mit Überlichtgeschwindigkeit
+* Reisen im System mit "realistischen" Antrieben (inspiriert durch The Expansion Serie, aber etwas schneller... TODO: Reisegeschwindkeiten festlegen & Entfernungen im System)
+* Nachrichten zwischen Systemen: Hyperfunk (extrem teuer, unzuverlässig) und Kuriere / Transporter (langsam)
+* Nachrichten im System: Funk (Licht / Richtfunk etc) mit entsprechend langer Signallaufzeit, vgl.
+Sonne - Erde: Licht braucht 8,3 Minuten / Sonne - Pluto: 5,7 Stunden)
 
 === Roboter
 
-=== Sec-Units
+==== Sec-Units
 
-Inspiriert von Martha Wells' Murderbot Chronicles: Androiden, die ein biologisches Gehirn mit einem leistungsfähigen Elektronengehirn verbinden - und einem Kontrollchip, der sicherstellen soll, daß sie auf keinen Fall zu Mörderbots werden. Diese Bots werden bei Außeneinsätzen auf fremden Planeten oder bei diplomatischen Missionen zu potenziell aggressiven Parteien verwendet. Sie gelten offiziell als Sachen, nicht als Personen. Arbeiten Anweisungen selbständig ab, dürfen sich nicht zu weit vom Besitzer entfernen.
+Inspiriert von Martha Wells' Murderbot Chronicles: Androiden, die ein biologisches Gehirn mit einem leistungsfähigen Elektronengehirn verbinden - und einem Kontrollchip, der sicherstellen soll, daß sie auf keinen Fall zu Mörderbots werden.
+Diese Bots werden bei Außeneinsätzen auf fremden Planeten oder bei diplomatischen Missionen zu potenziell aggressiven Parteien verwendet.
+Sie gelten offiziell als Sachen, nicht als Personen.
+Arbeiten Anweisungen selbständig ab, dürfen sich nicht zu weit vom Besitzer entfernen.
+Sehr teuer.
 
-=== Combat-Units
+==== Combat-Units
 
-Sec-units mit schweren Waffen, werden zur Sicherung kritischer Infrastruktur oder für krigerische Auseinandersetzungen verwendet.
+Sec-units mit schweren Waffen, werden zur Sicherung kritischer Infrastruktur oder für kriegerische Auseinandersetzungen verwendet.
+
