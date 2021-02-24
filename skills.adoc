@@ -77,13 +77,13 @@ Bei Wissens-Skills geht es im Unterschied zu Etikette nicht um das Verhalten, so
 |Name|Beschreibung|Bonus durch
 
 |Suchen| (z.B. versteckte Waffensysteme oder einen Safe)|Wahrnehmung
-| Schwimmen|Konstitution
-| Singen|Charisma
+| Schwimmen||Konstitution
+| Singen||Charisma
 | Brauen |"Bier aus Algen, Gen-Gerste und Venushefe? Lecker!"|Intelligenz
 | Brennen| hochprozentigen Alkohol|Intelligenz
 | Nahrungssynthese | "Warum schmeckt der Earl Grey Ersatz heute nach Puh-Er-Tee?" | Intelligenz
-| Klettern| Geschicklichkeit
-| Programmieren / Hacken / Kryptographie|Intelligenz
-| Erste Hilfe|Intelligenz und Wahrnehmung
+| Klettern|| Geschicklichkeit
+| Programmieren / Hacken / Kryptographie||Intelligenz
+| Erste Hilfe||Intelligenz und Wahrnehmung
 
 |===
