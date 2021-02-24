@@ -39,6 +39,7 @@ a|das Wissen um die Grundregeln und das Verhalten in einer bestimmten gesellscha
 |===
 
 Bei Wissens-Skills geht es im Unterschied zu Etikette nicht um das Verhalten, sondern mehr um Strukturen, Organisationen, Geschichte, Namen und Orte
+(Intelligenzbonus)
 
 .Wissen (Lore)
 |===
