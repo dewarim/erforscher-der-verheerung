@@ -8,7 +8,7 @@ Wähle 2 Spezialisierungen:
 
 * Transporter (Raumschiff <=> Station)
 * 1-2 Personen-Kampfflieger
-* Standard Erkundungsschiff (100m lang, weitgehend unbewaffnet)
+* Standard Erkundungsschiff (100m lang, weitgehend unbewaffnet) (Intelligenzbonus)
 * Große Schiffe (Kreuzer, Fregatten)
 * Shuttle (Landung auf Planeten)
 * Bodenfahrzeuge (Autos, LKW, Motorräder)
@@ -60,7 +60,7 @@ Wähle 3
 Wähle 3
 
 * Schätzen (mit deinem kommerziellen Hintergrund kannst du den ungefähren Wert einer Sache bestimmen)
-* Feilschen (wie auf dem Basar)
+* Feilschen (wie auf dem Basar) (Charismabonus)
 * Verhandeln (damit kannst du intergalaktische Handy-Verträge aushandeln)
 * Kalkulation (Budgetplanung, Reichweite von Treibstoff + Sauerstoffvorrat + Lebensmitteln + Verbrauchsmaterial bei Expeditionen etc) 
 * Händler-Wissen: exotisch; wähle 2 Unterskills
