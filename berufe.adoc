@@ -72,7 +72,7 @@ Wähle 3
 
 == Kämpfer
 
-Wähle 2 Spezialisierungen, dazu kommt der Skill: Schußwaffen (professionell): 3W6 auf Treffer 
+Wähle 2 Spezialisierungen, dazu kommt der Skill: Schußwaffen (professionell = Bonus von +3 auf Angriff)
 
 * Sicherheit auf Station (Personenschutz, Kenntnis von Sicherheitsprotokollen)
 * Abwehr von Kaperversuchen
