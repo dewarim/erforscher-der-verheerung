@@ -76,8 +76,8 @@ Bei Wissens-Skills geht es im Unterschied zu Etikette nicht um das Verhalten, so
 |Name|Beschreibung
 
 | Suchen| (z.B. versteckte Waffensysteme oder einen Safe)
-| Schwimmen
-| Singen
+| Schwimmen|
+| Singen|
 | Brauen |"Bier aus Algen, Gen-Gerste und Venushefe? Lecker!"
 | Brennen| hochprozentigen Alkohol
 | Nahrungssynthese | "Warum schmeckt der Earl Grey Ersatz heute nach Puh-Er-Tee?"
