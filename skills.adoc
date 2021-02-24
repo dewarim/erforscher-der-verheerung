@@ -74,7 +74,7 @@ Bei Wissens-Skills geht es im Unterschied zu Etikette nicht um das Verhalten, so
 
 .Diverses
 |===
-|Name|Beschreibung|Bonus durch
+|Name|Beschreibung|Bonus durch|
 
 | Suchen| (z.B. versteckte Waffensysteme oder einen Safe)|Wahrnehmung|
 | Schwimmen|Konstitution|
@@ -83,7 +83,7 @@ Bei Wissens-Skills geht es im Unterschied zu Etikette nicht um das Verhalten, so
 | Brennen| hochprozentigen Alkohol|Intelligenz|
 | Nahrungssynthese | "Warum schmeckt der Earl Grey Ersatz heute nach Puh-Er-Tee?" | Intelligenz|
 | Klettern| Geschicklichkeit|
-| Programmieren / Hacken / Kryptographie|Intelligenz
-| Erste Hilfe|Intelligenz und Wahrnehmung
+| Programmieren / Hacken / Kryptographie|Intelligenz|
+| Erste Hilfe|Intelligenz und Wahrnehmung|
 
 |===
