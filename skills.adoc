@@ -81,8 +81,8 @@ Bei Wissens-Skills geht es im Unterschied zu Etikette nicht um das Verhalten, so
 | Brauen |"Bier aus Algen, Gen-Gerste und Venushefe? Lecker!"
 | Brennen| hochprozentigen Alkohol
 | Nahrungssynthese | "Warum schmeckt der Earl Grey Ersatz heute nach Puh-Er-Tee?"
-| Klettern
-| Programmieren / Hacken / Kryptographie
+| Klettern|
+| Programmieren / Hacken / Kryptographie|
 | Erste Hilfe
 
 |===
