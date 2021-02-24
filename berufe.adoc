@@ -8,6 +8,7 @@ Wähle 2 Spezialisierungen:
 
 * Transporter (Raumschiff <=> Station)
 * 1-2 Personen-Kampfflieger
+* Standard Erkundungsschiff (100m lang, weitgehend unbewaffnet)
 * Große Schiffe (Kreuzer, Fregatten)
 * Shuttle (Landung auf Planeten)
 * Bodenfahrzeuge (Autos, LKW, Motorräder)
