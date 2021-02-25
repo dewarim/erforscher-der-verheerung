@@ -85,5 +85,6 @@ Bei Wissens-Skills geht es im Unterschied zu Etikette nicht um das Verhalten, so
 | Klettern|| Geschicklichkeit
 | Programmieren / Hacken / Kryptographie||Intelligenz
 | Erste Hilfe||Intelligenz und Wahrnehmung
+| Spielen| z.B. Würfel- & Kartenspiele|je nach Spiel: Intelligenz (Strategie) oder Wahrnehmung (Bluffen, Leute einschätzen)
 
 |===
