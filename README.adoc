@@ -59,18 +59,22 @@ Wenn zwei oder mehr Attribute eine Rolle spielen, wähle ein Attribut aus, das s
 
 Beispiel: dein Paradewurf von 3W6 bekommt einen Bonus durch Geschicklichkeit und Schnelligkeit.
 Beide Attribute sind auf 12, geben also +4 Bonus.
-So bekommst du durch ds eine +4, durch das andere +2 (50%), insgesamt +6.
+So bekommst du durch das eine Attribut +4, durch das andere +2 (50%), insgesamt +6.
 
 === Level
 
 Für Abenteuer bekommt man Erfahrung.
 Mit Erfahrung bekommt man Level.
-Mit Leveln bekommt man Attribut-Punkte zum Verteilen (+1 in Lv 1,2,3,5,6 und danach +1 alle 3 Level).
+Mit Leveln bekommt man Attribut-Punkte zum Verteilen (+1 in Lv 2,3,5,6 und danach +1 alle 3 Level).
 
 Mit zusätzlichen Leveln bekommt man auch zusätzliche Skills - wähle +1 Skill in jedem geraden Level (2,4,6,...).
 
 Und je länger dein Charakter dabei ist, desto besser kann er in seinen Skills werden.
-Pro Level verteile 3 Skillpunkte (= Bonus auf deinen Würfelwurf, wenn du Skillproben machst)
+
+Pro Level nach dem ersten 
+
+- verteile 3 Skillpunkte (= Bonus auf deinen Würfelwurf, wenn du Skillproben machst)
+- würfle 1W6 und addiere das Ergebnis zu deinen Lebenspunkten hinzu.
 
 === Berufe (Klassen)
 
