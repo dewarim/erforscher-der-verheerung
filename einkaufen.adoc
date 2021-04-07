@@ -7,6 +7,7 @@ Verbesserungen für den menschlichen Körper - auf dem Weg zum Cyborg oder Jense
 === Augmente
 
 Augmente sind bio-technologische Verbesserungen (Verbesserung oder Austausch von Organen)
+
 .Augmentierungen
 |===
 |Name|Beschreibung
@@ -28,5 +29,7 @@ Implantate sind künstliche, cybernetische Körpterteile, die biologische ersetz
 .Implantate
 |===
 |Name|Beschreibung
+
+|Künstliches Auge (einfach)| Sehen im Infrarot-Bereich, Zielerfassung (in Verbindung mit Bio-Reaktor)
 
 |===
