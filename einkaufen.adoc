@@ -1,0 +1,32 @@
+= Einkaufen
+
+== Augmente und Implantate
+
+Verbesserungen für den menschlichen Körper - auf dem Weg zum Cyborg oder Jenseitsmenschen (transhuman :) )
+
+=== Augmente
+
+Augmente sind bio-technologische Verbesserungen (Verbesserung oder Austausch von Organen)
+.Augmentierungen
+|===
+|Name|Beschreibung
+
+|Immunsystem|(fast) nie mehr krank durch ein per Biotech optimiertes Immunsystem
+|Sinnesupgrade: Augen| Die Augen eines Adlers ... 20/20 Vision; das Verlangen, sich auf kleine Nagetiere zu stürzen, ist eine äußerst seltene Nebenwirkung.
+|Sinnesupgrade: Nase| Ein optimiertes olfaktorisches System gibt zwar noch keinen Geruchssinn für Gold, aber immerhin kannst du nun herausfinden, was Hunde riechen.
+|Sinnesupgrade: Berührung|?
+|Sinnesupgrade: Ohren|
+|Sinnesupgrade: Geschmack| Vorteil: alles schmeckt intensiver; Gifte und andere Substanzen in Nahrungsmitteln können leichter wahrgenommen werden. Nachteil: ranzige reste von Rationen gehen gar nicht mehr
+|Muskeln: Kraft| +1 bis +3 auf Stärke
+|Muskeln: Ausdauer| +1 bis +3 auf Konstitution
+|===
+
+=== Implantate
+
+Implantate sind künstliche, cybernetische Körpterteile, die biologische ersetzen.
+
+.Implantate
+|===
+|Name|Beschreibung
+
+|===
