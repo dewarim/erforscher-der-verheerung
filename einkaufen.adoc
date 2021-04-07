@@ -30,6 +30,6 @@ Implantate sind künstliche, cybernetische Körpterteile, die biologische ersetz
 |===
 |Name|Beschreibung
 
-|Künstliches Auge (einfach)| Sehen im Infrarot-Bereich, Zielerfassung (in Verbindung mit Bio-Reaktor)
+|Künstliches Auge (einfach)| Sehen im Infrarot-Bereich, Zielerfassung (in Verbindung mit Brain-CPU)
 
 |===
