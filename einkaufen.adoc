@@ -31,5 +31,7 @@ Implantate sind künstliche, cybernetische Körpterteile, die biologische ersetz
 |Name|Beschreibung
 
 |Künstliches Auge (einfach)| Sehen im Infrarot-Bereich, Zielerfassung (in Verbindung mit Brain-CPU)
+|Bio-CPU|Chip im Gehirn - "Wifi für's Brain"
+|Datenbank im Kopf| Wikipedia im Gehirn
 
 |===
