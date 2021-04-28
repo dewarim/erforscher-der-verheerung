@@ -33,7 +33,7 @@ Implantate sind künstliche, cybernetische Körpterteile, die biologische ersetz
 |===
 |Name|Beschreibung|Kosten|Auswirkung
 
-|Künstliches Auge (einfach)| Sehen im Infrarot-Bereich, Zielerfassung (in Verbindung mit Brain-CPU) | 300K | +3 Wahrnehmung
+|Künstliches Auge (einfach)| Sehen im Infrarot-Bereich + Restlichtverstärkung (Nachtsicht), Zielerfassung (in Verbindung mit Brain-CPU) | 300K | +3 Wahrnehmung
 |Bio-CPU Lv 1 | "connect" - Chip im Gehirn - "Wifi für's Brain" | 500K | Drahtloser Kontakt zu IT-Systemen (Schiffscomputer) für Statusabfragen / einfache Datenbankabfragen / einfache Befehle / Funkverbindungen
 | Bio-CPU Lv 2| "observe" - Zugriff auf Sensordaten (z.B. durch eine Überwachungskamera sehen) | 900K | +2 Wahrnehmung (wo angebracht)
 | Bio-CPU Lv 3| "direct" - Steuerung von Systemen (Dronen, Bots, Waffen ) | 1000K|
