@@ -16,7 +16,7 @@ Augmente sind bio-technologische Verbesserungen (Verbesserung oder Austausch von
 |Sinnesupgrade: Augen| Die Augen eines Adlers ... 20/20 Vision; das Verlangen, sich auf kleine Nagetiere zu stürzen, ist eine äußerst seltene Nebenwirkung.| 300K | +3 Wahrnehmung (wenn die Wahrnehmungsprobe etwas mit Sicht zu tun hat)
 |Sinnesupgrade: Nase| Ein optimiertes olfaktorisches System gibt zwar noch keinen Geruchssinn für Gold, aber immerhin kannst du nun herausfinden, was Hunde riechen.| 300K| +3 Wahrnehmung
 |Sinnesupgrade: Berührung| Verbesserte Haptik - um z.B. Unebenheiten von Materialien ertasten zu können. Super, wenn man nach einem misslungenen Augenupdate Braille lernen muß...| 400K | +3 Wahrnehmung
-|Sinnesupgrade: Ohren| Verbesserter Hörsinn (sowohl Ortsbestimmung als auch )|+3 Wahrnehmung
+|Sinnesupgrade: Ohren| Verbesserter Hörsinn (sowohl Ortsbestimmung als auch Geräuschempfindlichkeit )| 300K |+3 Wahrnehmung 
 |Sinnesupgrade: Geschmack| Vorteil: alles schmeckt intensiver; Gifte und andere Substanzen in Nahrungsmitteln können leichter wahrgenommen werden. Nachteil: ranzige Reste von Rationen gehen gar nicht mehr| 420K | +3 Wahrnehmung
 |Muskeln: Kraft| | 250K-750K| +1 bis +3 auf Stärke
 |Muskeln/Nerven: Feinmotorik | |300K-900K | +1 bis +3 auf Geschicklichkeit
