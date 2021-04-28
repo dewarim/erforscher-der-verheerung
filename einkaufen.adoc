@@ -39,7 +39,7 @@ Implantate sind künstliche, cybernetische Körpterteile, die biologische ersetz
 | Bio-CPU Lv 3| "direct" - Steuerung von Systemen (Dronen, Bots, Waffen ) | 1000K|
 | Bio-CPU Lv 4| "parallelize" - paralleles Verfolgen mehrerer Datenströme, z.B. ein Waffensystem und eine Drone lenken | 3000K|
 |Datenbank im Kopf| Wikipedia im Gehirn (Allgemeinwisssen) | 230K | +1 Intelligenz
-|Datenbank: Schiffstechnik| Datenbank mit update Abofunktion| 140K|
+|Datenbank: Schiffstechnik| Datenbank mit update Abofunktion| 140K
 |Datenbank: Verheerung|Alles über die aktuellen Erkenntnisse zur Verheerung | 100K
 
 |===
