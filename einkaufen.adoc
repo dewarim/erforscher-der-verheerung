@@ -23,6 +23,7 @@ Augmente sind bio-technologische Verbesserungen (Verbesserung oder Austausch von
 |Muskeln/Nerven: Schnelligkeit| | 400K-900K | +1 bis +3 auf Schnelligkeit
 |Muskeln: Ausdauer| | 300-800K |  +1 bis +3 auf Konstitution
 |Knochen: Haltbarkeit| "natürlich" verstärkte Knochen | 600K| +2 Konstitution
+|Herz / Nerven: Stromschlagsicherheit| inkl. Ableitungsdraht im +++Harnleiter+++ Fuß  | 500K|
 |===
 
 === Implantate
