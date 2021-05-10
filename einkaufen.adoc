@@ -9,21 +9,25 @@ Verbesserungen für den menschlichen Körper - auf dem Weg zum Cyborg oder Jense
 Augmente sind bio-technologische Verbesserungen (Verbesserung oder Austausch von Organen)
 
 .Augmentierungen
+[cols="2,4,1,1"]
 |===
 |Name|Beschreibung|Kosten|Auswirkung
 
 |Immunsystem|(fast) nie mehr krank durch ein per Biotech optimiertes Immunsystem| 600K | +2 Konstitution
 |Sinnesupgrade: Augen| Die Augen eines Adlers ... 20/20 Vision; das Verlangen, sich auf kleine Nagetiere zu stürzen, ist eine äußerst seltene Nebenwirkung.| 300K | +3 Wahrnehmung (wenn die Wahrnehmungsprobe etwas mit Sicht zu tun hat)
 |Sinnesupgrade: Nase| Ein optimiertes olfaktorisches System gibt zwar noch keinen Geruchssinn für Gold, aber immerhin kannst du nun herausfinden, was Hunde riechen.| 300K| +3 Wahrnehmung
-|Sinnesupgrade: Berührung| Verbesserte Haptik - um z.B. Unebenheiten von Materialien ertasten zu können. Super, wenn man nach einem misslungenen Augenupdate Braille lernen muß...| 400K | +3 Wahrnehmung
-|Sinnesupgrade: Ohren| Verbesserter Hörsinn (sowohl Ortsbestimmung als auch Geräuschempfindlichkeit )| 300K |+3 Wahrnehmung 
-|Sinnesupgrade: Geschmack| Vorteil: alles schmeckt intensiver; Gifte und andere Substanzen in Nahrungsmitteln können leichter wahrgenommen werden. Nachteil: ranzige Reste von Rationen gehen gar nicht mehr| 420K | +3 Wahrnehmung
+|Sinnesupgrade: Berührung| Verbesserte Haptik - um z.B. Unebenheiten von Materialien ertasten zu können.
+Super, wenn man nach einem misslungenen Augenupdate Braille lernen muß...| 400K | +3 Wahrnehmung
+|Sinnesupgrade: Ohren| Verbesserter Hörsinn (sowohl Ortsbestimmung als auch Geräuschempfindlichkeit )| 300K |+3 Wahrnehmung
+|Sinnesupgrade: Geschmack| Vorteil: alles schmeckt intensiver; Gifte und andere Substanzen in Nahrungsmitteln können leichter wahrgenommen werden.
+Nachteil: ranzige Reste von Rationen gehen gar nicht mehr| 420K | +3 Wahrnehmung
 |Muskeln: Kraft| | 250K-750K| +1 bis +3 auf Stärke
 |Muskeln/Nerven: Feinmotorik | |300K-900K | +1 bis +3 auf Geschicklichkeit
 |Muskeln/Nerven: Schnelligkeit| | 400K-900K | +1 bis +3 auf Schnelligkeit
 |Muskeln: Ausdauer| | 300-800K |  +1 bis +3 auf Konstitution
 |Knochen: Haltbarkeit| "natürlich" verstärkte Knochen | 600K| +2 Konstitution
-|Herz / Nerven: Stromschlagsicherheit| inkl. Ableitungsdraht im Fuß  | 500K|
+|Herz / Nerven: Stromschlagsicherheit| inkl.
+Ableitungsdraht im Fuß  | 500K|
 |===
 
 === Implantate
@@ -40,7 +44,51 @@ Implantate sind künstliche, cybernetische Körpterteile, die biologische ersetz
 | Bio-CPU Lv 3| "direct" - Steuerung von Systemen (Dronen, Bots, Waffen ) | 1000K|
 | Bio-CPU Lv 4| "parallelize" - paralleles Verfolgen mehrerer Datenströme, z.B. ein Waffensystem und eine Drone lenken | 3000K|
 |Datenbank im Kopf| Wikipedia im Gehirn (Allgemeinwisssen) | 230K | +1 Intelligenz
+|===
+
+.Datenbanken für Brain-CPU
+|===
+|Name|Beschreibung|Kosten
 |Datenbank: Schiffstechnik| Datenbank mit update Abofunktion| 140K |
 |Datenbank: Verheerung| Alles über die aktuellen Erkenntnisse zur Verheerung | 100K |
 |Datenbank: Navigation| Schiffsrouten, aktuelle Trümmer- und Kometenbahnen| 30K|
 |===
+
+=== Rüstungen
+
+Kosten für Rüstungen & Kleidung bziehen sich auf einen kompletten Satz - entweder Ganzkörper Anzug oder Schuhe/Hose/Oberteil/Jacke/Mütze.
+Preis ist in-System.
+
+.Rüstungen
+[cols="2,4,1,1,1"]
+|===
+|Name|Beschreibung|Schutzwert| Haltbarkeit|Kosten
+|Alltagskleidung | Normale Kleidung | 1 | 10 | 300
+|Arbeitskleidung (Handwerker)|  Blaumann / leichte Sicherheitshose / Arbeitshandschuhe | 2 | 30 | 400
+|Schutzausrüstung: normal| Für den Umgang mit gefährlichen Werkzeugen (im Umgang mit Schweißgeräten, Kettensägen, Säuren und Laugen, Katzentransporte etc) | 3 | 45 | 800
+|Schutzausrüstung: Gefahrgut| Schwere Schutzkleidung für die Kategorie: "Things I won't work with" (Derek Lowe) - Substanzen, die so ziemlich alles zersetzen: Metall, Sand, Chemiker | 5 | 100 | 1000
+|Sicherheitsausrüstung: Security| Für Knüppeltrupps - Stationssicherheit, die mal eine Kneipe stürmen sollen.
+Hilft gegen Messer, leichte Schußwaffen, zerbrochene Flaschen | 4 | 70 | 400
+| Leichte Panzeung | Soldaten und Spezialkräfte - bis zu leichtem Laserfeuer und mittlerem Kaliber bei Projektilen, inkl, Gasmaske| 8 | 130 | 1200
+| Mittlere Panzerung | Für Kampfeinsätze gegen Aliens und Piraten - hermetischer Komplettschutz mit kleinem Sauerstofftank | 14 | 400 | 5000
+| Schwere Panzerung | Für Kampfeinsätze gegen Kampfroboter - oder in Konflikten mit schweren Waffen.
+Hat Servomotoren zur Kraftverstärkung.
+Schwer und etwas träge (-4 Schnelligkeit, -3 Geschicklichkeit). | 20 | 1000 | 20'000
+| Power-Rüstung | Hermetischer Komplettschutz, geeignet für Unterwasser, Vakuum und Kampf in Schwerelosigkeit (Sauerstoff [8h], Steuerdüsen), umfangreiche schwere Panzerung mit kraftverstärkenden Servomotoren; ca. 4h Einsatzzeit | 26 | 3000 | 50'000
+
+|===
+
+=== Kriegsgerät
+
+(TODO)
+
+.Schwere 1-Personen Panzerungen/Robot-Rüstungen
+[cols="2,4,1,1,1"]
+|===
+| Name | Beschreibung | Schutzwert| Haltbarkeit|Kosten
+| Terminatorenrüstung | unbekannt (siehe: Warhammer 40K) | - | - | -
+| Mecha | unbekannt (siehe: Mechwarrior) | - | - | -
+| Riesenkillerroboter | unbekannt (siehe: Anime mit 50m hohen Kampfmaschinen) | - | - | -
+|===
+
+
