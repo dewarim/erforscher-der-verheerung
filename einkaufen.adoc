@@ -67,7 +67,7 @@ Preis ist in-System.
 |Arbeitskleidung (Handwerker)|  Blaumann / leichte Sicherheitshose / Arbeitshandschuhe | 2 | 30 | 400
 |Schutzausrüstung: normal| Für den Umgang mit gefährlichen Werkzeugen (im Umgang mit Schweißgeräten, Kettensägen, Säuren und Laugen, Katzentransporte etc) | 3 | 45 | 800
 |Schutzausrüstung: Gefahrgut| Schwere Schutzkleidung für die Kategorie: "Things I won't work with" (Derek Lowe) - Substanzen, die so ziemlich alles zersetzen: Metall, Sand, Chemiker | 5 | 100 | 1000
-|Weltraumanzug|Schutz vor Strahlung & Vakuum; Sauerstofftank (10h)|30|23'000
+|Weltraumanzug|Schutz vor Strahlung & Vakuum; Sauerstofftank (10h) |4|30|23'000
 |Sicherheitsausrüstung: Security| Für Knüppeltrupps - Stationssicherheit, die mal eine Kneipe stürmen sollen.
 Hilft gegen Messer, leichte Schußwaffen, zerbrochene Flaschen | 4 | 70 | 700
 | Leichte Panzeung | Soldaten und Spezialkräfte - bis zu leichtem Laserfeuer und mittlerem Kaliber bei Projektilen, inkl, Gasmaske| 8 | 130 | 4200
